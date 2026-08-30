@@ -9,6 +9,7 @@ This project was created to practice HTML and basic web development.
 
 ## Games
 
+- Firewatch
 - Resident Evil Requiem
 - Subnautica
 - Hollow Knight Silkworm
